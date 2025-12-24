@@ -40,10 +40,14 @@ FC Terminal is a high-fidelity, clinical financial analytical interface designed
 ## 📸 Visual Previews
 
 | Dashboard Overview | Institutional RRG Matrix |
-| :---: | :---: |
+<img width="1763" height="2048" alt="image" src="https://github.com/user-attachments/assets/765193a6-d784-485c-92da-69478b0d47e4" />
+<img width="1520" height="2048" alt="image" src="https://github.com/user-attachments/assets/6a62808d-52cb-4dd4-adb4-69aeb25203d1" />
 
 | AI Visual Analysis | Whale Portfolio Audit |
-| :---: | :---: |
+<img width="1354" height="2048" alt="image" src="https://github.com/user-attachments/assets/98543303-daca-4508-b54d-488a3847e512" />
+<img width="1892" height="1872" alt="image" src="https://github.com/user-attachments/assets/a42112cf-d5fa-4f51-bfb3-31c731a4e42c" />
+<img width="1890" height="1865" alt="image" src="https://github.com/user-attachments/assets/61071508-4fc5-48f1-8ea0-8b4d18d6bb63" />
+<img width="1892" height="1866" alt="image" src="https://github.com/user-attachments/assets/ffffd2d4-62ae-4d51-ac7f-c59bd3acc333" />
 
 ---
 
